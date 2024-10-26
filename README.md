@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Noah</h1>
-<h3 align="center">A passionate fullstack developer from the US</h3>
+<h3 align="center">A fullstack developer from the US</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=justanotheridea" alt="justanotheridea" /></a> </p>
-
-- 🔭 I’m currently working on **safety.net**
-
-- 🌱 I’m currently learning **React + Redux**
+- 🔭 I’m currently working on **safety.net** and various modules for **foundry vtt**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
