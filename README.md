@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=justanotheridea&label=Profile%20views&color=0e75b6&style=flat" alt="justanotheridea" /> </p>
 
-- 🔭 I’m currently working on **safety.net and modules for Foundry vtt**
+- 🔭 I’m currently working on **safety.net, modules for Foundry vtt, and Sins 2 Community Tools**
 
 <p align="left">
 </p>
